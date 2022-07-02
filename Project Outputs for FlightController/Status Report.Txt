@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [FlightController.PcbDoc]
+   Generated File[Pick Place for FlightController.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:52:53 On 3.07.2022

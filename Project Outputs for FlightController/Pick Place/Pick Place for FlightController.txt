@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\burak\Altium\Projects\FlightController\Project Outputs for FlightController\Pick Place\Pick Place for FlightController.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03.07.22
+Time:       00:52
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer    Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                                                                      
+Q1         2SCR523MT2L                 TopLayer ROHM_SOT-723                2388.000      991.000       0        "TRANS NPN 50V 0.1A VMT3"                                                        
+C2         "10 µF"                     TopLayer CAP_ALSMD_POLY_5.3MM_H5.8MM 582.646       1326.000      0        "CAP ALUM POLY 10UF 20% 16V SMD"                                                 
+C1         "10 µF"                     TopLayer CAP_ALSMD_POLY_5.3MM_H5.8MM 582.646       1591.000      0        "CAP ALUM POLY 10UF 20% 16V SMD"                                                 
+Y1         "8 MHz"                     TopLayer ABRACON_ABLS                1148.000      1456.000      270      "CRYSTAL 8.0000MHZ 18PF SMD"                                                     
+U3         "GYRO SENSOR"               TopLayer QFN_24PINS                  1503.000      451.000       0        "IMU ACCEL/GYRO 3-AXIS I2C 24QFN"                                                
+U2         "IC REG LDO 3.3V 1A SOT223" TopLayer SOT223                      189.000       1473.000      90       "IC REG LDO 3.3V 1A SOT223"                                                      
+U1         BAT54C                      TopLayer SOT-23                      588.630       1889.401      90       "Rectifier Diode Small Signal Schottky 30V 0.2A 5ns Automotive 3-Pin SOT-23 T/R" 
+SW1        218-2LPSTR                  TopLayer CTS_218-2LPJ                1454.000      2109.000      90       "SWITCH SLIDE DIP SPST 25MA 24V"                                                 
+R11        "1 kOhms"                   TopLayer RES_0805_2012               2178.748      2006.000      270      "RES 1K OHM 0.1% 1/10W 0805"                                                     
+R10        "1 kOhms"                   TopLayer RES_0805_2012               2328.748      2010.449      270      "RES 1K OHM 0.1% 1/10W 0805"                                                     
+R9         "10 kOhms"                  TopLayer RES_0805_2012               1898.000      624.504       90       "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R8         "10 kOhms"                  TopLayer RES_0805_2012               2058.000      656.000       0        "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R7         "10 kOhms"                  TopLayer RES_0805_2012               1848.000      2001.000      270      "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R6         "10 kOhms"                  TopLayer RES_0805_2012               1988.000      2001.000      270      "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R5         "10 kOhms"                  TopLayer RES_0805_2012               1657.000      2042.449      90       "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R4         "4.7 kOhms"                 TopLayer RES_0805_2012               2572.449      1001.000      180      "RES SMD 4.7K OHM 5% 0.4W 0805"                                                  
+R3         "10 kOhms"                  TopLayer RES_0805_2012               2378.551      1196.000      0        "RES 10K OHM 0.1% 1/10W 0805"                                                    
+R2         "22 Ohms"                   TopLayer RES_0805_2012               2662.449      1511.000      0        "RES SMD 22 OHM 0.1% 1/10W 0805"                                                 
+R1         "22 Ohms"                   TopLayer RES_0805_2012               2662.449      1421.000      0        "RES SMD 22 OHM 0.1% 1/10W 0805"                                                 
+J1         10118193-0001LF             TopLayer FCI_USB_10118193-0001LF     3007.405      1493.244      270      "CONN RCPT USB2.0 MICRO B SMD R/A"                                               
+IC1        STM32F401RBT6TR             TopLayer ST_LQFP-64_10X10MM          1768.000      1411.000      0        "IC MCU 32BIT 128KB FLASH 64LQFP"                                                
+D2         Red                         TopLayer LED_1206_3216_RED           2205.000      2258.000      0        "LED RED CLEAR 1206 SMD"                                                         
+D1         Red                         TopLayer LED_1206_3216_RED           2475.000      2258.000      0        "LED RED CLEAR 1206 SMD"                                                         
+C16        "2200 pF"                   TopLayer CAP_0805_2012               1664.496      626.000       0        "CAP CER 2200PF 10V X7R 0805"                                                    
+C15        "0.1 µF"                    TopLayer CAP_0805_2012               1588.000      276.000       180      "CAP CER 0.1UF 16V X7R 0805"                                                     
+C14        10000pF                     TopLayer CAP_0805_2012               1473.000      97.496        90       "CAP CER 10000PF 16V X7R 0805"                                                   
+C13        "0.1 µF"                    TopLayer CAP_0805_2012               1573.000      97.496        90       "CAP CER 0.1UF 16V X7R 0805"                                                     
+C12        "0.1 µF"                    TopLayer CAP_0805_2012               1576.504      1046.000      0        "CAP CER 0.1UF 16V X7R 0805"                                                     
+C11        "0.1 µF"                    TopLayer CAP_0805_2012               1401.000      1791.496      270      "CAP CER 0.1UF 16V X7R 0805"                                                     
+C10        "0.1 µF"                    TopLayer CAP_0805_2012               1521.000      1791.496      270      "CAP CER 0.1UF 16V X7R 0805"                                                     
+C9         "0.1 µF"                    TopLayer CAP_0805_2012               2118.000      999.504       90       "CAP CER 0.1UF 16V X7R 0805"                                                     
+C8         "0.1 µF"                    TopLayer CAP_0805_2012               2018.000      999.504       90       "CAP CER 0.1UF 16V X7R 0805"                                                     
+C7         "0.1 µF"                    TopLayer CAP_0805_2012               2228.000      1626.000      270      "CAP CER 0.1UF 16V X7R 0805"                                                     
+C6         "4.7 µF"                    TopLayer CAP_0805_2012               2348.000      1626.000      270      "CAP CER 4.7UF 10V X5R 0805"                                                     
+C5         "0.1 µF"                    TopLayer CAP_0805_2012               2038.000      851.000       180      "CAP CER 0.1UF 16V X7R 0805"                                                     
+C4         "0.1 µF"                    TopLayer CAP_0805_2012               1345.000      1145.000      0        "CAP CER 0.1UF 16V X7R 0805"                                                     
+C3         "1 µF"                      TopLayer CAP_0805_2012               1346.496      1240.000      0        "CAP CER 1UF 16V X8R 0805"                                                       
